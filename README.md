@@ -2,14 +2,14 @@
 - :octocat: I'm a Computer Science & Engineering undergraduate 👨‍💻
 - 👀 I’m interested in **Computer Science** 🧑‍💻
 	- Programming
-	- Software Development
-	- 📄 Web Development
-	- 📱 Mobile Apps
-	- 🎮 Video Games
-	- Artificial Intelligence 
+	  - Software Development
+	  - 📄 Web Development
+	  - 📱 Mobile Apps
+	  - 🎮 Video Games
 	- DataScience
-	- Information Security
-	- ...
+	- Information Security / Cyber Security
+	- and more ...
+
 - 🌱 I'm currently learning 🐍 Python
 
 
