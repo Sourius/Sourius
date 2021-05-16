@@ -9,6 +9,7 @@
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
+
 - 🌱 I'm currently learning 🐍 Python
 
 
