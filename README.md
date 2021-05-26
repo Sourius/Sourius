@@ -6,6 +6,7 @@
 	  - 📄 Web Development
 	  - 📱 Mobile Apps
 	  - 🎮 Video Games
+	- Artificial Intelligence
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
