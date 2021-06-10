@@ -11,7 +11,7 @@
 	- Information Security / Cyber Security
 	- and more ...
 
-- 👯 I'm currently collaborating on development project with java and docker (my bachelor's degree thesis)
+- 🔭 I'm currently working on Final Degree Project with java and docker
 
 
 <!--
