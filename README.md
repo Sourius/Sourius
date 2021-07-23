@@ -10,12 +10,11 @@
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
-- 🔭 I’m currently working on 🐍 Python
+- 🔭 I’m currently working on improving 🐍 Python
 - 🌱 I'm currently learning 🤖 Mobile Apps Development with Android Studio and Kotlin
 - 👯 I'm currently collaborating on 🧑‍⚖️ iudex
 
 <!--
-- :arrow_right: Kotlin + Mobile Apps Development
 - :arrow_right: C++ and C#
 - :arrow_right: Unity + Game Development
 --> 
