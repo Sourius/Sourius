@@ -10,7 +10,8 @@
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
-- 🔭 I’m currently working on improving 🐍 Python
+
+- 🔭 I’m currently improving my 🐍 Python coding skills
 - 🌱 I'm currently learning 🤖 Mobile Apps Development with Android Studio and Kotlin
 - 👯 I'm currently collaborating on 🧑‍⚖️ iudex
 
