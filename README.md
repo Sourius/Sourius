@@ -12,7 +12,7 @@
 	- and more ...
 - 🔭 I’m currently working on 🐍 Python
 - 🌱 I'm currently learning 🤖 Mobile Apps Development with Android Studio and Kotlin
-- 👯 I'm currently collaborating on 🧑‍⚖️iudex
+- 👯 I'm currently collaborating on 🧑‍⚖️ iudex
 
 <!--
 - :arrow_right: Kotlin + Mobile Apps Development
