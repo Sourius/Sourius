@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourius
-- :octocat: I'm a Computer Science & Engineering undergraduate 👨‍💻
+- :octocat: I'm a Computer Science & Engineering graduate 👨‍💻
 - 👀 I’m interested in **Computer Science** 🧑‍💻
 	- Programming
 	  - Software Development
@@ -10,10 +10,13 @@
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
-
-- 🔭 I’m currently improving my 🐍 Python coding skills
 - 🌱 I'm currently learning 🤖 Mobile Apps Development with Android Studio and Kotlin
 - 👯 I'm currently collaborating on 🧑‍⚖️ iudex
+<hr>
+
+## GitHub stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true)
+[![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact)](https://github.com/sourius/Sourius)
 
 <!--
 - :arrow_right: C++ and C#
