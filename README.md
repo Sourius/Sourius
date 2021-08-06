@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourius
-- :octocat: I'm a Computer Science & Engineering undergraduate 👨‍💻
+- :octocat: I'm a Computer Science & Engineering graduate 👨‍💻
 - 👀 I’m interested in **Computer Science** 🧑‍💻
 	- Programming
 	  - Software Development
