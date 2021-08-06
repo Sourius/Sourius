@@ -10,9 +10,13 @@
 	- DataScience
 	- Information Security / Cyber Security
 	- and more ...
-- 🔭 I’m currently working on improving 🐍 Python
 - 🌱 I'm currently learning 🤖 Mobile Apps Development with Android Studio and Kotlin
 - 👯 I'm currently collaborating on 🧑‍⚖️ iudex
+<hr>
+
+## My stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true)
+[![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact)](https://github.com/sourius/Sourius)
 
 <!--
 - :arrow_right: C++ and C#
