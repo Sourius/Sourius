@@ -15,8 +15,7 @@
 <hr>
 
 ## GitHub stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true)
-[![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact)](https://github.com/sourius/Sourius)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true) [![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact)](https://github.com/sourius/Sourius)
 
 <!--
 - :arrow_right: C++ and C#
