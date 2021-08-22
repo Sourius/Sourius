@@ -2,10 +2,10 @@
 - :octocat: I'm a Computer Science & Engineering graduate 👨‍💻
 - 👀 I’m interested in **Computer Science** 🧑‍💻
 	- Programming
-	  - Software Development
-	  - 📄 Web Development
-	  - 📱 Mobile Apps
-	  - 🎮 Video Games
+  	- Software Development
+  	- 📄 Web Development
+  	- 📱 Mobile Apps
+  	- 🎮 Video Games
 	- Artificial Intelligence
 	- DataScience
 	- Information Security / Cyber Security
