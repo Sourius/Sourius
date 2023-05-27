@@ -18,9 +18,8 @@
 
 
 ## GitHub stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true&rank_icon=github&count_private=true)](https://github.com/sourius/Sourius)
-
-[![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact&count_private=true)](https://github.com/sourius/Sourius)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourius&count_private=true&show_icons=true&rank_icon=github&count_private=true)
+![Most Used Languages in GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sourius&layout=compact&count_private=true)
 
 
 <!--
